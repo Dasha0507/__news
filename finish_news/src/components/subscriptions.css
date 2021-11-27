@@ -1,0 +1,41 @@
+.d-flex {
+    display: flex;
+}
+ 
+.border {
+    border-bottom: 1px solid #000;
+}
+ 
+.packet {
+    height: 185px;
+    margin: 30px 0;
+}
+
+.info {
+    margin: 30px 0;
+    width: 670px;
+    height: 125px;
+    margin-right: 320px;
+    align-items: center;
+}
+ 
+.info p {
+    font-size: 20px;
+}
+ 
+.info a {
+    font-size: 24px;
+    color: #0463a7;
+}
+ 
+.info a:hover{
+    text-decoration-line: underline;
+}
+ 
+.price {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+ 

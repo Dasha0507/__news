@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Fjalla One', sans-serif;
+    background-color:rgba(240, 233, 220, 0.6);;
+}
+ 
+a {
+    text-decoration: none;
+}
+ 
+ul, ol, li {
+    list-style: none;
+}
+ 
+img {
+    vertical-align: top;
+}
+ 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+ 
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+   
+}
+ 
+.wrapper {
+    padding-top: 60px;
+}
+ 
+.container h1 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #000;
+    text-align: center;
+}

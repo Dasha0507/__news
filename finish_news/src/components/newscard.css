@@ -1,0 +1,70 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 1 */
+    line-height: 1.15; /* 1 */
+    margin: 0; /* 2 */
+}
+
+.post {
+    background: #EEE7D9;
+    border-bottom: 1px solid #000;
+    margin: 10px 0;
+}
+  
+.title {
+    padding: 30px 0;
+    font-size: 24px;
+    color: #000;
+    display: flex;  
+    justify-content: center;
+}
+  
+.post_description {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #000;
+  
+}
+  
+.post img {
+    display: block;
+    max-width: 1000px;
+    max-height: 500px;
+    margin: 10px auto 30px;
+}
+
+
+.link {
+    cursor: pointer;
+    color: rgb(67, 67, 238);
+    text-decoration: underline;
+    margin-top: 20px;
+}

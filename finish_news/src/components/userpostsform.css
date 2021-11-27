@@ -1,0 +1,25 @@
+.btn {
+    margin: 20px 0;
+    padding: 10px 15px;
+    color: #000;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #000;
+    color: #fff;
+}
+
+.inputs {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 5px 0;
+    border: 1px solid #000; 
+}
+
+.height {
+    padding: 50px 10px;
+}
